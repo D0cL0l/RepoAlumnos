@@ -16,5 +16,9 @@ public class claseAlumnos {
 		not3 = rand.nextInt(11);
 		System.out.println(not1 + " " + not2 + " " + not3);
 	}
+	public void Media() {
+		int media = (not1 + not2 + not3)/3;
+		System.out.println(media);
+	}
 }
 

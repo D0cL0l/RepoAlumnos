@@ -1,5 +1,6 @@
 import java.util.Random;
 import java.util.Scanner;
+
 public class notasAlumnos {
 	public static void main(String[] args) {
 
@@ -11,6 +12,7 @@ public class notasAlumnos {
 
 		claseAlumnos alumno = new claseAlumnos(nombre, telefono);
 		alumno.Notas();	
+		alumno.Media();
 	}
 }
 
