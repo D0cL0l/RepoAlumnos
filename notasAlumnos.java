@@ -1,6 +1,5 @@
 import java.util.Random;
 import java.util.Scanner;
-
 public class notasAlumnos {
 	public static void main(String[] args) {
 
